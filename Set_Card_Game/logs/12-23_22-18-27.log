@@ -1,0 +1,16 @@
+[22:18:27.066] [INFO   ] thread main starting.
+[22:18:27.071] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[22:18:27.080] [SEVERE ] configuration file was loaded from resources directory.
+[22:18:27.083] [SEVERE ] warning: player 1 keys (12) mismatch table size (9).
+[22:18:27.083] [SEVERE ] warning: player 2 keys (12) mismatch table size (9).
+[22:18:27.587] [INFO   ] thread dealer starting.
+[22:18:27.706] [SEVERE ] placing card 11 in slot 0
+[22:18:27.814] [SEVERE ] placing card 22 in slot 1
+[22:18:27.922] [SEVERE ] placing card 1 in slot 2
+[22:18:28.033] [SEVERE ] placing card 50 in slot 3
+[22:18:28.141] [SEVERE ] placing card 58 in slot 4
+[22:18:28.251] [SEVERE ] placing card 68 in slot 5
+[22:18:28.363] [SEVERE ] placing card 52 in slot 6
+[22:18:28.472] [SEVERE ] placing card 26 in slot 7
+[22:18:28.581] [SEVERE ] placing card 12 in slot 8
+[22:18:28.581] [INFO   ] thread dealer terminated.
